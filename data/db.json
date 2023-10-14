@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Book 1",
+      "author": "someone",
+      "publication": "Publication1",
+      "page": 255,
+      "category": "novel",
+      "price": 150,
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/yellow-business-leadership-book-cover-design-template-dce2f5568638ad4643ccb9e725e5d6ff.jpg?ts=1637017516"
+    },
+    {
+      "id": 2,
+      "name": "Book 2",
+      "author": "Another Author",
+      "publication": "Publication2",
+      "page": 320,
+      "category": "fiction",
+      "price": 180,
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/yellow-business-leadership-book-cover-design-template-dce2f5568638ad4643ccb9e725e5d6ff.jpg?ts=1637017516"
+    },
+    {
+      "id": 3,
+      "name": "Book 3",
+      "author": "Author Three",
+      "publication": "Publication3",
+      "page": 280,
+      "category": "fiction",
+      "price": 200,
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/yellow-business-leadership-book-cover-design-template-dce2f5568638ad4643ccb9e725e5d6ff.jpg?ts=1637017516"
+    },
+    {
+      "id": 4,
+      "name": "Book 4",
+      "author": "Author Three",
+      "publication": "Publication3",
+      "page": 280,
+      "category": "fiction",
+      "price": 200,
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/yellow-business-leadership-book-cover-design-template-dce2f5568638ad4643ccb9e725e5d6ff.jpg?ts=1637017516"
+    },
+    {
+      "id": 5,
+      "name": "Book 5",
+      "author": "Great Writer",
+      "publication": "Publication4",
+      "page": 400,
+      "category": "fiction",
+      "price": 220,
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/yellow-business-leadership-book-cover-design-template-dce2f5568638ad4643ccb9e725e5d6ff.jpg?ts=1637017516"
+    },
+    {
+      "id": 6,
+      "name": "Book 6",
+      "author": "Famous Author",
+      "publication": "Publication5",
+      "page": 150,
+      "category": "novel",
+      "price": 160,
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/yellow-business-leadership-book-cover-design-template-dce2f5568638ad4643ccb9e725e5d6ff.jpg?ts=1637017516"
+    },
+    {
+      "id": 7,
+      "name": "Book 7",
+      "author": "Bestseller Author",
+      "publication": "Publication6",
+      "page": 280,
+      "category": "novel",
+      "price": 190,
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/yellow-business-leadership-book-cover-design-template-dce2f5568638ad4643ccb9e725e5d6ff.jpg?ts=1637017516"
+    }
+  ]
+}
